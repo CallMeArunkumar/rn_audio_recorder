@@ -1,0 +1,15 @@
+export const Colors = {
+  primary: '#0A84FF',
+  danger: '#ff3b30',
+  success: '#34C759',
+  micBackground: '#003c5f',
+  textPrimary: '#000',
+  textSecondary: '#666',
+  white: '#fff',
+  lightGray: '#f9f9f9',
+  borderGray: '#ccc',
+  overlay: 'rgba(0,0,0,0.5)',
+  cancelText: '#888',
+  black: '#000',
+  borderColor: '#eee',
+};
